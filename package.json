@@ -1,0 +1,18 @@
+{
+    "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
+    "name": "fora-extensions-service",
+    "version": "0.9.0",
+    "description": "Plugins and Extensions loader for the Fora Project",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeswin/fora-extensions-service.git"
+    },
+    "main": "lib",
+    "dependencies": {
+        "fora-node-thunkify": "*"
+    },
+    "devDependencies": {},
+    "engines": { "node": ">= 0.11.9" },
+    "keywords": ["extensions"],
+    "license" : "GPL-3.0+"
+}
