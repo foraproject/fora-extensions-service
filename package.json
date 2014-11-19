@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-extensions-service",
-    "version": "0.9.10",
+    "version": "0.9.20",
     "description": "Plugins and Extensions loader for the Fora Project",
     "repository": {
         "type": "git",
