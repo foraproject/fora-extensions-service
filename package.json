@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-extensions-service",
-    "version": "0.9.30",
+    "version": "0.9.31",
     "description": "Plugins and Extensions loader for the Fora Project",
     "repository": {
         "type": "git",
@@ -9,7 +9,7 @@
     },
     "main": "lib/fora-extensions-service",
     "dependencies": {
-        "fora-node-thunkify": "*"
+        "nodefunc-promisify": "*"
     },
     "devDependencies": {},
     "engines": { "node": ">= 0.11.9" },
